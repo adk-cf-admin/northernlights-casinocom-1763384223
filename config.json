@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#121922",
+            "lang-select-color": "#222829",
+            "bg-light": "#057BA0",
+            "welcome-bonus-bg": "#F1F4EF",
+            "top-games-hover-fg": "#121922",
+            "main-bg": "#FBF6EF",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#057BA0",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#0C9EC5",
+            "yellow": "#DAB26C",
+            "yellow-button": "#0C9EC5",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#DDEFEE",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#0C9EC5",
+            "faq-label": "#DDEFEE",
+            "bg-footer": "#121922",
+            "copyright": "#e7e7d5",
+            "starColor": "#DAB26C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Northern Lights Casino",
+            "title": "Northern Lights Casino | Slots, Hotel, Dining & Live Shows in Prince Albert",
+            "description": "Official Northern Lights Casino site: slot machines, table games, hotel, restaurants, concerts, promotions, and SIGA Rewards loyalty program. Discover top entertainment in Saskatchewan.",
+            "canonical": "northernlights-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/556",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "northernlights-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/549",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/550"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/551",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Northern Lights Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Northern Lights Casino \u2014 Gaming, Dining & Entertainment in Saskatchewan",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/554",
+            "imageSizeModifier": 15,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/555",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines",
+                "Live dealer table games",
+                "Progressive jackpots up to a million",
+                "Interactive electronic gaming options",
+                "SIGA Rewards loyalty program",
+                "Live concerts and cultural events",
+                "Cozy on-site restaurants and bars"
+            ],
+            "advantagesAfterText": "Northern Lights Casino blends gaming with cultural entertainment, offering a welcoming atmosphere for all visitors. Its convenient location and frequent events make it a regional hotspot.",
+            "knowMore": "Know more",
+            "appTitle": "Northern Lights Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/557",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Northern Lights Casino App",
+            "mobileGooglePlayImageTitle": "Northern Lights Casino App",
+            "mobileIosImageTitle": "Northern Lights Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Northern Lights Casino",
+                "description1": "Northern Lights Casino provides real chances for big wins and a generous loyalty program. It\u2019s one of Saskatchewan\u2019s top gaming destinations.",
+                "items": [
+                    "Smoke Signals jackpot \u2014 from 1M CAD",
+                    "SIGA Rewards bonuses \u2014 up to 500 CAD",
+                    "High RTP slots \u2014 up to 98%"
+                ],
+                "description2": "Northern Lights Casino is a modern entertainment venue with a vibrant and comfortable atmosphere. The casino offers a wide range of slot machines and table games. Live concerts and cultural events are held regularly. Guests can enjoy cozy restaurants and bars. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/558",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The loyalty program rewards regular players with bonuses and perks. The casino is conveniently located and easily accessible. Service quality is consistently high. The interior blends style with functionality. It\u2019s a great place for leisure and fun. Northern Lights Casino is a popular choice for locals and tourists alike."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Northern Lights of Excitement: Northern Lights Casino",
+                "description": "<p>\nNorthern Lights Casino is more than just a gaming venue \u2014 it\u2019s a stylish space where excitement meets comfort and culture. The interior blends modern design with Indigenous elements from Saskatchewan, creating a warm and welcoming atmosphere. It\u2019s easy to lose track of time while immersed in entertainment and relaxation.\n\n<\/p>\n<br>\n<p>\nThe casino operates daily, including weekends and holidays, from morning until late at night. This flexible schedule allows guests to enjoy games and events whenever it suits them. Its accessibility makes it a favorite among both locals and visitors.\n\n\n<\/p>\n<br>\n<p>\nSeveral bars are located on-site, including the sleek Floor Bar and the cozy Deli & Bar, perfect for a quick bite or a cocktail between games. Nearby hotels offer comfortable accommodations for those who wish to stay overnight or enjoy a weekend getaway.\n<\/p>\n<br>\n<p>\nNorthern Lights Casino hosts regular concerts, themed nights, charity events, and cultural celebrations. It\u2019s a place not only for gaming but also for fun and social experiences with friends or family. The entertainment calendar is refreshed monthly, ensuring something new for every guest.\n\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to bonus and loyalty programs. The SIGA Rewards program allows players to earn points, enter draws, and receive exclusive offers. New players are welcomed with bonuses, while regulars enjoy added perks.\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCommunication and Payment Convenience at Northern Lights Casino<\/h3>\n\n<p>\nNorthern Lights Casino prioritizes guest comfort, regardless of their background. The primary language spoken by staff is English, and employees are trained to be attentive and patient to ensure clear and friendly service. During peak tourist seasons, some staff may speak additional languages, but English remains the main language of communication.\n\n\n<\/p>\n<br>\n<p>\nThe casino accepts a wide range of payment methods, including cash, bank cards (Visa, MasterCard), and mobile payment options. This makes it easy for guests to fund their gaming accounts or pay for services on-site. All transactions are processed through secure systems, ensuring the safety of personal data and finances.\n\n<\/p>\n<br>\n<p>\nFor added convenience, ATMs are available throughout the casino, supporting both local and international cards. Currency exchange services are also offered, which is especially helpful for international visitors. Exchanges can be made at the casino\u2019s cashier desk, with transparent terms and up-to-date rates.\n\n\n<\/p>\n<br>\n<p>\nThis thoughtful approach to service makes visiting Northern Lights Casino both comfortable and secure. Guests can fully enjoy their time without worrying about payment or language barriers.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisitor Rules at Northern Lights Casino\n<\/h3>\n\n<p>\nNorthern Lights Casino maintains high standards of hospitality and safety to ensure a pleasant experience for all guests. Entry is permitted only to individuals 19 years and older, and valid ID is required. This rule is strictly enforced throughout the facility.\n\n\n<\/p>\n<br>\n<p>\nThe dress code is casual but neat. Guests are advised to avoid overly sporty, beachwear, or provocative clothing. Evening events may require a more formal style, especially for concerts or cultural performances.\n\n\n<\/p>\n<br>\n<p>\nBringing outside alcohol into the casino is strictly prohibited, even if purchased elsewhere. Smoking is allowed only in designated areas. Aggressive behavior, loud arguments, and mobile phone use in gaming areas are also not permitted.\n\n<\/p>\n<br>\n<p>\nThe casino offers free parking, including spaces for buses and recreational vehicles (RVs). RV guests can stay for up to 3 days after registering at the Guest Services Desk. Electric vehicle charging stations (Level 2 and Level 3) are available on-site.\n\n<\/p>\n<br>\n<p>\nGuests can arrive by car, taxi, or use the free shuttle service that runs between the casino, hotels, and the city center. This service is available to SIGA Rewards members and requires advance booking.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n   <h4 style = \"font-weight: bold; font-size: 24px;\">Age Restrictions<\/h4>\n    \n            <ul>\n            <li>\u2022 \nEntry strictly 19+\n\n\n<\/li>\n            <li>\u2022 \nValid ID required\n\n<\/li>\n        <\/ul><br>\n   <h4 style = \"font-weight: bold; font-size: 24px;\">Prohibited<\/h4>\n    \n            <ul>\n            <li>\u2022 \nNo outside alcohol\n<\/li>\n            <li>\u2022 \nSmoking only in designated areas\n<\/li>\n            <li>\u2022 \nNo aggressive behavior or loud disputes\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n \n        <ul>\n            <li>\u2022 \nNeat casual attire\n\n<\/li>\n            <li>\u2022 \nNo beachwear, sportswear, or provocative outfits\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Parking & Access<\/h4>\n \n        <ul>\n            <li>\u2022 \nFree parking for all\n\n<\/li>\n            <li>\u2022 \nRV spots with registration\n<\/li>\n            <li>\u2022 \nEV charging stations\n\n<\/li>\n            <li>\u2022 \nFree shuttle for guests\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSIGA Rewards: Your Play, Your Perks\n<\/h3>\n\n<p>\nThe SIGA Rewards loyalty program is a unique reward system available at all seven SIGA casinos, including Northern Lights Casino. It\u2019s designed to make every visit more rewarding, offering real benefits for your gameplay. Joining is free and takes just a few minutes \u2014 simply present your ID at the Rewards Desk or use a self-service kiosk.\n\n<\/p>\n<br>\n<p>\nOnce registered, players receive a personalized SIGA Rewards card, which should be used during every game. Each wager earns points and tier credits, helping you progress through the program\u2019s levels. The more you play, the higher your status and the greater your rewards.\n\n<\/p>\n<br>\n<p>\nThe program includes four tiers: Emerald, Gold, Platinum, and Diamond. Each tier unlocks new benefits \u2014 from free play and restaurant discounts to priority service and exclusive events. For example, Diamond members receive up to +15% bonus points, access to VIP events, and preferred parking.\n\n<\/p>\n<br>\n<p>\nSIGA Rewards also hosts cash prize draws. During the \u201cThe Next Level\u201d promotion in October and November 2025, 250,000 CAD is being awarded, with individual prizes reaching 100,000 CAD. Participation is as simple as swiping your SIGA Rewards card daily.\n\n<\/p>\n<br>\n<p>\nAdditional monthly promotions include birthday bonuses, special offers for players aged 55+, free spins, and prize draws. New members receive 10 CAD in Free Slot Play upon registration.\n\n<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration\n<\/h4>\n            <ul>\n            <li>\u2022 \nFree at desk or kiosk\n<\/li>\n            <li>\u2022 \nID required\n<\/li>\n            <li>\u2022 \nInstant card issuance\n\n<\/li>\n        <\/ul>\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Program tiers\n<\/h4>\n            <ul>\n            <li>\u2022 \nEmerald: up to 500 credits\n\n<\/li>\n            <li>\u2022 \nGold: 501\u201310,000 credits\n\n<\/li>\n            <li>\u2022 \nPlatinum: 10,001\u201330,000 credits\n<\/li>\n            <li>\u2022 \nDiamond: 30,001+ credits\n<\/li>\n        <\/ul>\n        <br>\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Extra promotions\n<\/h4>\n        <ul>\n            <li>\u2022 \nBirthday rewards\n<\/li>\n            <li>\u2022 \n55+ member perks\n\n<\/li>\n            <li>\u2022 \nWelcome bonus: 10 CAD\n<\/li>\n       \n        <\/ul>\n        <br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Benefits & bonuses<\/h4>\n\n\n        <ul>\n            <li>\u2022 \nFree Slot Play\n\n<\/li>\n            <li>\u2022 \nUp to 15% restaurant discounts\n\n<\/li>\n            <li>\u2022 \nPreferred parking\n\n<\/li>\n            <li>\u2022 \nVIP events (Diamond)\n\n<\/li>\n\t    <li>\u2022 \nCash draws up to 100,000 CAD\n\n<\/li>\n        <\/ul><br>\n\n       \n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Northern Lights Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Northern Lights Casino \n<\/h3>\n\n<p>\nNorthern Lights Casino offers a wide range of exciting promotions, cash prizes, and seasonal events that go beyond the standard SIGA Rewards program. These offers are designed to enhance the gaming experience, increase winning potential, and create a festive atmosphere for all guests.\n\n<\/p>\n<br>\n<p>\nOne of the most popular promotions is \u201cThe Next Level\u201d, a major cash draw with a total prize pool of 250,000 CAD. Participants can win up to 100,000 CAD simply by playing slots and swiping their rewards card daily. There are also \u201cQuick Draws\u201d, where winners receive 650 CAD in cash through random daily selections.\n\n\n<\/p>\n<br>\n<p>\nEach day of the week features unique bonuses. Prime Time Tuesdays cater to players aged 50+, offering up to 100 CAD in Free Play and a 5 CAD food voucher. Plinkk Time Thursdays bring hourly hot seat draws with prizes of up to 225 CAD in cash or 250 CAD in Free Play. Other daily events like Monday Madness and Friday Frenzy include free play and discounts.\n\n\n<\/p>\n<br>\n<p>\nSeasonal promotions add even more excitement. Events like \u201cTurkeys On Us\u201d in November offer gifts and free dinners, while \u201cGet a Gift\u201d celebrates the winter holidays with giveaways. The casino also honors veterans with free breakfasts and special recognition events.\n\n<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Cash Draws\n<\/h4>\n            <ul>\n            <li>\u2022 \nThe Next Level: up to 100,000 CAD\n<\/li>\n            <li>\u2022 \n4 draw nights, 10 winners each\n<\/li>\n            <li>\u2022 \nEntry via daily card swipe\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Quick Wins\n<\/h4>\n             <ul>\n            <li>\u2022 \nQuick Draws: 5 random daily draws\n<\/li>\n            <li>\u2022 \nPrize: 650 CAD cash\n<\/li>\n\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Weekly Promotions\n<\/h4>\n        <ul>\n            <li>\u2022 \nPrime Time Tuesdays: up to 100 CAD Free Play + 5 CAD food\n\n<\/li>\n            <li>\u2022 \nPlinkk Time Thursdays: up to 225 CAD cash or 250 CAD Free Play\n\n<\/li>\n           <li>\u2022 \nMonday Madness \/ Friday Frenzy: free play & discounts\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Events\n<\/h4>\n            <ul>\n            <li>\u2022 \nTurkeys On Us: gifts & free dinners\n<\/li>\n            <li>\u2022 \nGet a Gift: holiday giveaways\n<\/li>\n            <li>\u2022 \nHonoring Our Heroes: free breakfasts for veterans\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Northern Lights Casino\n<\/h3>\n\n<p>\nNorthern Lights Casino offers a wide variety of games to satisfy both casual and seasoned players. The spacious gaming floor features over 590 slot machines, including classic reels, modern video slots, and progressive jackpots. One of the most famous is Smoke Signals, which starts at 1 million CAD and must pay out before reaching 2 million.\n<\/p>\n<br>\n<p>\nPopular slots include Buffalo, Quick Hits, Sweet Bonanza, Book of Dead, Starburst, Gonzo\u2019s Quest, Mega Moolah, and Cleopatra. These games are known for their vibrant graphics, bonus rounds, and high RTP, making them favorites among regular guests.\n<\/p>\n<br>\n<p>\nTable games are available in both classic live dealer format and electronic versions via the interactive The Circuit platform. Guests can enjoy blackjack, roulette, poker, and baccarat. Electronic tables offer faster gameplay and lower stakes, ideal for beginners.\n<\/p>\n<br>\n<p>\nThe casino also hosts social slot tournaments, where players compete for prizes and bonuses. These tournaments are available through the mobile app and take place both online and on-site.\n<\/p>\n<br>\n<p>\nThe gaming area is divided into smoking and non-smoking sections, ensuring comfort for all guests. Machines are regularly updated with new releases from top providers like NetEnt, Microgaming, Pragmatic Play, and IGT.\n<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Popular Slots\n<\/h4>\n            <ul>\n            <li>\u2022 \nSmoke Signals \u2014 progressive jackpot from 1M CAD\n\n\n<\/li>\n            <li>\u2022 \nBuffalo, Quick Hits \u2014 classic bonus slots\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza, Book of Dead, Starburst \u2014 high-RTP video slots\n\n<\/li>\n           <li>\u2022 \nMega Moolah, Cleopatra, Gonzo\u2019s Quest \u2014 legendary themed games\n<\/li>\n        <\/ul>\n        <br>\n\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Table Games\n<\/h4>\n        <ul>\n            <li>\u2022 \nBlackjack, roulette, poker, baccarat\n\n<\/li>\n            <li>\u2022 \nLive dealers and The Circuit electronic platform\n\n\n<\/li>\n  \n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Zones\n<\/h4>\n            <ul>\n            <li>\u2022 \n200+ machines in smoking area\n\n<\/li>\n            <li>\u2022 \nRemaining in non-smoking section\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting at Northern Lights Casino\n<\/h3>\n\n<p> \nNorthern Lights Casino offers a flexible betting system suitable for both casual players and high rollers. The casino features over 560 slot machines with denominations ranging from $0.01 to $1.00, allowing guests to play with minimal investment or aim for big wins. Progressive jackpots like Smoke Signals start at 1 million CAD and must pay out before reaching 2 million.\n<\/p><br>\n<p> \nTable games such as blackjack, poker, roulette, and baccarat have minimum bets ranging from $5 to $15, depending on the game type and time of day. Electronic versions via The Circuit platform offer lower entry points, starting at $1, making them accessible to a wider audience.\n\n\n<\/p><br>\n<p> \nThis betting structure makes the casino attractive to both entertainment seekers and serious gamblers.\n\n<\/p>\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#0C9EC5; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Smoke Signals Slot<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1.00 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> -<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$15.00 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500.00<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5.00 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10.00<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1000.00<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1.00<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100.00<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment & Events at Northern Lights Casino\n<\/h3>\n\n<p> \nNorthern Lights Casino is not just a gaming venue \u2014 it\u2019s a full-fledged entertainment hub where every evening can turn into a celebration. The casino regularly hosts live concerts, comedy shows, themed parties, and special events that attract guests from across the region. Its spacious Event Center, with over 9,000 square feet, accommodates large-scale performances by renowned artists and local talents.\n<\/p>\n<br>\n<p> \nOne of the most popular formats is live music nights, featuring both local bands and national performers. Genres range from country and rock to pop and jazz. The atmosphere is intimate yet vibrant, allowing guests to enjoy music, dinner, and cocktails all at once. Comedy shows are also a regular feature, bringing stand-up comedians and improv groups for evenings filled with laughter.\n<\/p>\n<br>\n<p> \nThe casino organizes seasonal and themed events, such as Tattoo Conventions, Wine Tasting Nights, Get a Gift, and Turkeys On Us. These events include giveaways, tastings, contests, and exclusive offers. Many of them feature cash prize draws, free dinners, and special promotions for SIGA Rewards members.\n<\/p>\n<br>\n<p> \nA highlight of the nightlife is the Starlight Lounge, a lounge-club area with DJs, dancing, and cocktail sets. It has won the \u201cNightclub of the Year\u201d award three years in a row. It\u2019s the perfect place to unwind after gaming, dance, or enjoy a night out with friends.\n<\/p>\n<br>\n<p> \nNorthern Lights Casino also offers off-stage entertainment: poker and slot tournaments, social games via the mobile app, and events for veterans and seniors. This makes the casino not just a place to gamble, but a true cultural and entertainment center in the region.\n\n\n<\/p>\n<br>\n <ul>\n            <li>\u2022 \nLive Concerts \u2014 performances by local and national artists\n\n<\/li>\n            <li>\u2022 \nComedy Shows \u2014 stand-up, improv, laughter nights\n\n<\/li>\n            <li>\u2022 \nThemed Parties \u2014 Halloween, Christmas, Wine Nights\n<\/li>\n            <li>\u2022 \nTattoo Convention \u2014 exhibitions and contests\n<\/li>\n\t    <li>\u2022 \nStarlight Lounge \u2014 lounge-club with DJs and dancing\n<\/li>\n\t    <li>\u2022 \nTournaments \u2014 poker, slots, social competitions\n<\/li>\n\t    <li>\u2022 \nPromotions & Draws \u2014 cash prizes, gifts, dinners\n<\/li>\n\t    <li>\u2022 \nVeteran Events \u2014 free breakfasts and tributes\n<\/li>\n\t    <li>\u2022 \nSeasonal Specials \u2014 \u201cGet a Gift\u201d, \u201cTurkeys On Us\u201d, summer BBQs\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRelaxation, Bars & Dining at Northern Lights Casino\n<\/h3>\n\n<p>\nNorthern Lights Casino offers more than just gaming \u2014 it\u2019s a complete leisure destination with cozy bars, restaurants, and a hotel that invites guests to relax and indulge. Whether you're winding down after a night of play or looking for a gourmet experience, the casino has something for every taste.\n\n\n<\/p>\n<br>\n<p>\nThe heart of the dining experience is the Northstar Restaurant, a spacious venue serving Canadian cuisine, grilled meats, seafood, and signature desserts. It also hosts karaoke nights, themed dinners, and live music performances. For quick bites and drinks, guests can visit the Deli & Bar or the Floor Bar, perfect for a snack or cocktail between games.\n<\/p>\n<br>\n<p>\nThe on-site Northern Lights Casino Hotel features elegant rooms and suites with modern amenities. Guests can enjoy the spa, indoor pool, fitness center, and business facilities. Whether you're planning a romantic getaway or a business trip, the hotel offers a seamless blend of comfort and entertainment.\n\n<\/p>\n<br>\n<p>\nFor families and casual fun, the Arcade Zone provides games and activities for all ages. There's also a gift shop offering souvenirs, jewelry, and locally crafted items. These amenities make the casino a well-rounded destination for relaxation and recreation.\n<\/p>\n<br>\n\n        <ul>\n            <li>\u2022 \nNorthstar Restaurant \u2014 Canadian cuisine with live entertainment\n\n<\/li>\n            <li>\u2022 \nDeli & Bar \u2014 snacks, coffee, drinks\n\n<\/li>\n            <li>\u2022 \nFloor Bar \u2014 cocktails and lounge atmosphere\n\n<\/li>\n            <li>\u2022 \nNorthern Lights Casino Hotel \u2014 rooms, suites, pool, spa, fitness\n\n<\/li>\n\t    <li>\u2022 \nArcade Zone \u2014 family-friendly gaming area\n\n<\/li>\n            <li>\u2022 \nGift Shop \u2014 souvenirs, jewelry, clothing\n<\/li>\n            <li>\u2022 \nBusiness Center \u2014 workspace with internet and printing\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is there a dress code for evening events?",
+                    "answer": "Yes, smart-casual attire is recommended for concerts and special parties. Neat casual wear is acceptable in the gaming area.\n"
+                },
+                {
+                    "title": "Is the casino open 24\/7?",
+                    "answer": "No, it operates from 10:00 AM to 2:00 AM, and until 3:00 AM on Fridays and Saturdays. The hotel and lounge stay open longer.\n"
+                },
+                {
+                    "title": "Can I pay with an international card?",
+                    "answer": "Yes, international Visa and MasterCard are accepted, along with some mobile payment options. Currency exchange is available.\n"
+                },
+                {
+                    "title": "Are there services for people with disabilities?",
+                    "answer": "Yes, the casino is fully accessible: ramps, elevators, designated parking, and adapted restrooms are provided.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/559",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Northern Lights Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

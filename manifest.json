@@ -1,0 +1,19 @@
+{
+  "name": "Northern Lights Casino",
+  "short_name": "Northern Lights Casino",
+  "theme_color": "",
+  "background_color": "#121922",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763374212-favicon-wwwnorthernlightscasinoca.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
